@@ -1,0 +1,35 @@
+img{
+  max-width: 100%;
+  max-height: 100%;
+
+}
+body{
+  background-image: url("../img/comodoro.jpg");
+  background-position: top;
+  background-repeat: no-repeat;
+  background-size: 100%;
+
+}
+.col-md-4{
+  background-color: #3b99d1;
+  font-family: Impact;
+  font-size: 20;
+}
+
+.mt-4{
+  background-color: white;
+  opacity: .6;
+  text-decoration: underline;
+  text-align: center;
+  color: black solid;
+}
+h1{
+
+  font-family: Impact;
+}
+
+.titulo{
+
+  margin-right: -15px;
+  margin-left: -15px;
+}
